@@ -1,0 +1,28 @@
+Loading intel-compilers-19/19.0.0.117
+  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
+    intel-fc-19/19.0.0.117
+seed is 1234, density is 0.490000
+automaton: running on 120 process(es)
+automaton: L = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells on step 500 is 270463
+automaton: number of live cells on step 1000 is 269187
+automaton: number of live cells on step 1500 is 268589
+automaton: number of live cells on step 2000 is 266992
+automaton: number of live cells on step 2500 is 267732
+automaton: number of live cells on step 3000 is 266945
+automaton: number of live cells on step 3500 is 265976
+automaton: number of live cells on step 4000 is 265334
+automaton: number of live cells on step 4500 is 263583
+automaton: number of live cells on step 5000 is 263154
+automaton: number of live cells on step 5500 is 260828
+automaton: number of live cells on step 6000 is 260681
+automaton: number of live cells on step 6500 is 260244
+automaton: number of live cells on step 7000 is 260918
+automaton: number of live cells on step 7500 is 262849
+The time is 0.2004 seconds.
+cellwrite: opening file <cell.pbm>
+cellwrite: writing data ...
+cellwrite: ... done
+cellwrite: file closed
+wrtie done!
